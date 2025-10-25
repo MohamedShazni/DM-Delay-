@@ -1,2 +1,2 @@
-# BlackJack
-Small game application
+# DM-Delay Application
+Small application
